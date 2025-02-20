@@ -871,6 +871,10 @@ header a:hover {
         width: 35px;
         height: 35px;
     }
+    .footer{
+        font-size: 15px;
+        font-weight: 400;
+    }
     
 }
 
