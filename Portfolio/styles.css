@@ -872,7 +872,7 @@ header a:hover {
         height: 35px;
     }
     .footer{
-        font-size: 15px;
+        font-size: 14px;
         font-weight: 400;
     }
     
@@ -917,5 +917,13 @@ header a:hover {
 
     .logo {
         font-size: 1.2rem; 
+    }
+    .social-media-icons a{
+        width: 35px;
+        height: 35px;
+    }
+    .footer{
+        font-size: 14px;
+        font-weight: 400;
     }
 }
